@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-I'm avacado
+---8
+what do you want from me
 Use the left arrow to go back!
